@@ -2,7 +2,7 @@
   "dependencies": {
     "aws-sdk": "^2.694.0",
     "chrome-aws-lambda": "^2.0.0",
-    "handlebars": "^4.5.1",
+    "handlebars": "^4.7.7",
     "pug": "^2.0.4",
     "puppeteer-core": "^2.0.0",
     "serverless-apigw-binary": "^0.4.4"
