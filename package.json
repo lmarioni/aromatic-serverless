@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "aws-sdk": "^2.694.0",
+    "aws-sdk": "^2.814.0",
     "chrome-aws-lambda": "^2.0.0",
     "handlebars": "^4.5.1",
     "pug": "^2.0.4",
